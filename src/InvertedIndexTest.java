@@ -6,6 +6,7 @@ public class InvertedIndexTest {
     public void getFileIndex() throws Exception {
         InvertedIndex i=new InvertedIndex();
         i.getFileIndex();
+        i.getWordFrequency();
     }
 
 }
