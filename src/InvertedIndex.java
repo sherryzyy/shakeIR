@@ -30,14 +30,14 @@ public class InvertedIndex {
     }
 
     HashMap<String, Integer> docIndex;
-    HashMap<String, Info> InvertedIndex;
+    TreeMap<String, Info> InvertedIndex;
 
     public InvertedIndex() {
         this.docIndex = new HashMap<>();
-        InvertedIndex = new HashMap<>();
+        InvertedIndex = new TreeMap<>();
     }
 
-    public InvertedIndex(HashMap<String, Integer> docIndex, HashMap<String, Info> invertedIndex) {
+    public InvertedIndex(HashMap<String, Integer> docIndex, TreeMap<String, Info> invertedIndex) {
         this.docIndex = docIndex;
         InvertedIndex = invertedIndex;
     }
