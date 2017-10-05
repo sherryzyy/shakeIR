@@ -8,8 +8,8 @@ public class UnaryBooleanExpression implements BooleanExpression {
     private BooleanExpression booleanExpression;
 
     @Override
-    public boolean evaluate(HashSet<String> dictionary) {
-        return unaryBooleanOperator.evaluate(booleanExpression, dictionary);
+    public boolean evaluate(InvertedIndex invertedIndex) {
+        return unaryBooleanOperator.evaluate(booleanExpression, invertedIndex);
     }
 
     public UnaryBooleanOperator getUnaryBooleanOperator() {

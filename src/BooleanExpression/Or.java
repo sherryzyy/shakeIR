@@ -10,8 +10,8 @@ public class Or implements BinaryBooleanOperator {
     }
 
     @Override
-    public boolean evaluate(BooleanExpression left, BooleanExpression right, HashSet<String> dictionary) {
-        return left.evaluate(dictionary)||right.evaluate(dictionary);
+    public boolean evaluate(BooleanExpression left, BooleanExpression right,InvertedIndex invertedIndex) {
+        return left.evaluate(invertedIndex)||right.evaluate(invertedIndex);
     }
 
     @Override

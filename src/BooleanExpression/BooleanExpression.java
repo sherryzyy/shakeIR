@@ -1,9 +1,11 @@
 package BooleanExpression;
 
-import java.util.HashSet;
+
+import java.util.ArrayList;
+import java.util.TreeMap;
 
 public interface BooleanExpression {
 
-    boolean evaluate(HashSet<String> dictionary);
+    ArrayList<Integer> evaluate(InvertedIndex invertedIndex);
 
 }

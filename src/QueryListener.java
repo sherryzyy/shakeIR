@@ -12,6 +12,14 @@ public class QueryListener extends QueryLanguageBaseListener {
     private BooleanExpression operand=null;
 
 
+    public Stack<BooleanExpression> getExprStack() {
+        return exprStack;
+    }
+
+    public BooleanExpression getOperand() {
+        return operand;
+    }
+
     @Override
     public void enterLiteralExpr(QueryLanguageParser.LiteralExprContext ctx) {
         ignoreTerminal=false;

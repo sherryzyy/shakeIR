@@ -9,8 +9,8 @@ public class BinaryBooleanExpression implements BooleanExpression {
     private BinaryBooleanOperator binaryBooleanOperator;
 
     @Override
-    public boolean evaluate(HashSet<String> dictionary) {
-        return binaryBooleanOperator.evaluate(left, right, dictionary);
+    public boolean evaluate(InvertedIndex invertedIndex) {
+        return binaryBooleanOperator.evaluate(left, right, invertedIndex);
     }
 
     public BooleanExpression getLeft() {

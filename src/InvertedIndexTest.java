@@ -1,3 +1,5 @@
+import BooleanExpression.InvertedIndex;
+
 /**
  * Created by sherry on 2017/9/28.
  */

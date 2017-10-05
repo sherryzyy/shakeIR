@@ -1,8 +1,9 @@
 package BooleanExpression;
 
+import java.util.ArrayList;
 import java.util.HashSet;
 
 public interface BinaryBooleanOperator {
 
-    boolean evaluate (BooleanExpression left, BooleanExpression right, HashSet<String> dictionary);
+    ArrayList<Integer> evaluate (BooleanExpression left, BooleanExpression right, InvertedIndex invertedIndex);
 }

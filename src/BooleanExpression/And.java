@@ -1,6 +1,8 @@
 package BooleanExpression;
 
+import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.Iterator;
 
 public class And implements BinaryBooleanOperator {
 
@@ -11,8 +13,17 @@ public class And implements BinaryBooleanOperator {
     }
 
     @Override
-    public boolean evaluate(BooleanExpression left, BooleanExpression right, HashSet<String> dictionary) {
-        return left.evaluate(dictionary)&&right.evaluate(dictionary);
+    public ArrayList<Integer> evaluate(BooleanExpression left, BooleanExpression right, InvertedIndex invertedIndex) {
+        ArrayList<Integer> leftrtn=left.evaluate(invertedIndex);
+        ArrayList<Integer> rightrtn=right.evaluate(invertedIndex);
+        ArrayList<Integer> rtn=new ArrayList<>();
+
+        int i=0;
+        int j=0;
+
+        while(i<leftrtn.size()&&j<rightrtn.size()){
+
+        }
     }
 
     @Override

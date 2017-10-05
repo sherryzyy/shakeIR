@@ -1,5 +1,6 @@
 package BooleanExpression;
 
+import java.util.ArrayList;
 import java.util.HashSet;
 
 public class Term implements BooleanExpression {
@@ -19,8 +20,8 @@ public class Term implements BooleanExpression {
     }
 
     @Override
-    public boolean evaluate(HashSet<String> dictionary) {
-        return dictionary.contains(this.term);
+    public ArrayList<Integer> evaluate(InvertedIndex invertedIndex) {
+        return invertedIndex.InvertedIndex.get(term).posting;
     }
 
     @Override

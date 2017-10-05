@@ -14,7 +14,7 @@ public class BooleanLiteral implements BooleanExpression {
     }
 
     @Override
-    public boolean evaluate(HashSet<String> dictionary) {
+    public boolean evaluate(InvertedIndex invertedIndex) {
         return this.value;
     }
 

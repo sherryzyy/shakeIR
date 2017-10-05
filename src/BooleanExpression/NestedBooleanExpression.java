@@ -8,8 +8,8 @@ public class NestedBooleanExpression implements BooleanExpression {
 
 
     @Override
-    public boolean evaluate(HashSet<String> dictionary) {
-        return nestedBooleanExpression.evaluate(dictionary);
+    public boolean evaluate(InvertedIndex invertedIndex) {
+        return nestedBooleanExpression.evaluate(invertedIndex);
     }
 
     public BooleanExpression getNestedBooleanExpression() {

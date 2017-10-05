@@ -1,3 +1,5 @@
+import BooleanExpression.InvertedIndex;
+
 public class Search {
     String command;
     InvertedIndex invertedIndex;

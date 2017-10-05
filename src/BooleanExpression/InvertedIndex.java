@@ -1,9 +1,9 @@
-//import org.tartarus.snowball.SnowballStemmer;
+package BooleanExpression;//import org.tartarus.snowball.SnowballStemmer;
 
-import java.awt.*;
 import java.awt.List;
 import java.io.*;
 import java.util.*;
+
 
 /**
  * Created by sherry on 2017/9/28.
@@ -12,11 +12,14 @@ public class InvertedIndex {
     class Info {
         private int docfreq;//how many doc has this word
         private int totalfreq;//word total frequency in all files
+
+        ArrayList<Integer> posting;
         TreeMap<Integer, List> posIndex;//docID+word position
         TreeMap<Integer, Integer> wordfreq;//word in each files,<docID,freq>
 
 
         public Info() {
+            posting=new ArrayList<>();
             posIndex = new TreeMap<>();
             wordfreq = new TreeMap<>();
         }
@@ -29,8 +32,8 @@ public class InvertedIndex {
 
     }
 
-    HashMap<String, Integer> docIndex;
-    TreeMap<String, Info> InvertedIndex;
+    public HashMap<String, Integer> docIndex;
+    public TreeMap<String, Info> InvertedIndex;
 
     public InvertedIndex() {
         this.docIndex = new HashMap<>();
@@ -53,6 +56,7 @@ public class InvertedIndex {
                 bufw.write(i + "\t" + docPath);
                 bufw.newLine();
                 bufw.flush();
+                docIndex.put(filelist[i].getName(),i);
             }
         } catch (IOException e) {
             System.out.println("打开文件失败");
@@ -106,6 +110,7 @@ public class InvertedIndex {
                 while (iterator1.hasNext()) {
                     Map.Entry fre = (Map.Entry) iterator1.next();
                     writeinfo+="\t"+fre.getKey();
+                    value.posting.add(Integer.parseInt(fre.getKey().toString()));
                 }
 
                 bufw.write(writeinfo);
