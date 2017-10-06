@@ -24,10 +24,9 @@ public class QueryParser {
     }
 
     public List<Integer> match(InvertedIndex invertedIndex){
-        List<Integer> docID=new ArrayList<>();
         if(invertedIndex !=null&&invertedIndex.InvertedIndex.size()>0){
-            booleanExpression.evaluate(invertedIndex);
+            return booleanExpression.evaluate(invertedIndex);
         }
-        return docID;
+       return null;
     }
 }

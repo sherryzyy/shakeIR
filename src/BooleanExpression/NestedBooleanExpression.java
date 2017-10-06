@@ -1,5 +1,6 @@
 package BooleanExpression;
 
+import java.util.ArrayList;
 import java.util.HashSet;
 
 public class NestedBooleanExpression implements BooleanExpression {
@@ -8,7 +9,7 @@ public class NestedBooleanExpression implements BooleanExpression {
 
 
     @Override
-    public boolean evaluate(InvertedIndex invertedIndex) {
+    public ArrayList<Integer> evaluate(InvertedIndex invertedIndex) {
         return nestedBooleanExpression.evaluate(invertedIndex);
     }
 

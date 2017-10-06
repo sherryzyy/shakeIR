@@ -1,5 +1,6 @@
 package BooleanExpression;
 
+import java.util.ArrayList;
 import java.util.HashSet;
 
 public class BooleanLiteral implements BooleanExpression {
@@ -14,8 +15,8 @@ public class BooleanLiteral implements BooleanExpression {
     }
 
     @Override
-    public boolean evaluate(InvertedIndex invertedIndex) {
-        return this.value;
+    public ArrayList<Integer> evaluate(InvertedIndex invertedIndex) {
+        return new ArrayList<>();
     }
 
     @Override
