@@ -1,3 +1,5 @@
+package src.core;
+
 import java.net.URI;
 
 public class Documents {

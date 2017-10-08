@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/shakeIR.iml" filepath="$PROJECT_DIR$/shakeIR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shakeIRweb/shakeIRweb.iml" filepath="$PROJECT_DIR$/shakeIRweb/shakeIRweb.iml" />
     </modules>
   </component>
 </project>

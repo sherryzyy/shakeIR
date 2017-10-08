@@ -1,6 +1,8 @@
-import BooleanExpression.*;
-import antlr4Generated.QueryLanguageBaseListener;
-import antlr4Generated.QueryLanguageParser;
+package src.core;
+
+import src.BooleanExpression.*;
+import src.antlr4Generated.QueryLanguageBaseListener;
+import src.antlr4Generated.QueryLanguageParser;
 import org.antlr.v4.runtime.tree.TerminalNode;
 
 import java.util.Stack;

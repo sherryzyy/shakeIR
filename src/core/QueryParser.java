@@ -1,8 +1,11 @@
-import BooleanExpression.*;
-import antlr4Generated.QueryLanguageLexer;
-import antlr4Generated.QueryLanguageParser;
+package src.core;
+
+import src.BooleanExpression.*;
+import src.antlr4Generated.QueryLanguageLexer;
+import src.antlr4Generated.QueryLanguageParser;
 import org.antlr.v4.runtime.ANTLRInputStream;
 import org.antlr.v4.runtime.CommonTokenStream;
+import src.core.QueryListener;
 
 import java.util.ArrayList;
 import java.util.List;

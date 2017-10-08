@@ -26,14 +26,14 @@
 </head>
 
 <body>
-<p align="center"><img src="dySE-logo.jpg"/></p>
+<p align="center"><img src="image/logo.jpg"/></p>
 <form action="search.jsp" name="search" method="get"
       enctype="application/x-www-form-urlencoded">
-    <table border="0" height="30px" width="450px" align="center">
+    <table border="0" height="35px" width="450px" align="center">
         <tr>
             <td width="66%"><input name="keyword" type="text" maxlength="100"
                                    id="textArea"></td>
-            <td height="29" align="center"><input type="submit" value="shake shake"
+            <td height="29" align="center"><input type="submit" value="shake"
                                                   id="search"></td>
         </tr>
     </table>

@@ -1,6 +1,6 @@
 // Generated from D:\code\shakeIR\src\antlr4Generated\QueryLanguage.g by ANTLR 4.7
 
-package antlr4Generated;
+package src.antlr4Generated;
 
 import org.antlr.v4.runtime.atn.*;
 import org.antlr.v4.runtime.dfa.DFA;

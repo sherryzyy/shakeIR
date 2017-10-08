@@ -1,4 +1,4 @@
-package BooleanExpression;//import org.tartarus.snowball.SnowballStemmer;
+package src.BooleanExpression;//import org.tartarus.snowball.SnowballStemmer;
 
 import java.awt.List;
 import java.io.*;
