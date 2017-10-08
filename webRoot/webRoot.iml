@@ -17,5 +17,7 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="shakeIR" />
+    <orderEntry type="library" name="servlet-api" level="project" />
   </component>
 </module>

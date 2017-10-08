@@ -2,52 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51966219-205d-488a-8cfc-49cd73aca3e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/antlr_4_7_complete.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webRoot/webRoot.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/USE-THIS-LOGO.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Documents.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/InvertedIndexTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QueryListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QueryParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Search.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/docIndex.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/wordIndex.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shakeIR.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shakeIRweb/shakeIRweb.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shakeIRweb/web/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shakeIRweb/web/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shakeIRweb/web/search.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/shakeIR.iml" afterPath="$PROJECT_DIR$/.idea/shakeIR.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/.idea/misc.xml" afterPath="$PROJECT_DIR$/src/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/And.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/And.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanExpression.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanExpression.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanOperator.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanOperator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/BooleanExpression.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/BooleanExpression.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/BooleanLiteral.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/BooleanLiteral.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/NestedBooleanExpression.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/NestedBooleanExpression.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/Not.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/Not.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/Or.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/Or.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/Term.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/Term.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/UnaryBooleanExpression.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/UnaryBooleanExpression.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/UnaryBooleanOperator.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/UnaryBooleanOperator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Shakespeare/The Second part of King Henry the Sixth.txt" afterPath="$PROJECT_DIR$/src/Shakespeare/The Second part of King Henry the Sixth.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageBaseListener.java" afterPath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageBaseListener.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageLexer.java" afterPath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageLexer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageListener.java" afterPath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageListener.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageParser.java" afterPath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageParser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/out/artifacts/shakeIRweb_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/src/out/artifacts/shakeIRweb_war_exploded/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/.idea/misc.xml" afterPath="$PROJECT_DIR$/src/out/production/shakeIR/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/.idea/modules.xml" afterPath="$PROJECT_DIR$/src/out/production/shakeIR/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/.idea/workspace.xml" afterPath="$PROJECT_DIR$/src/out/production/shakeIR/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/shakeIR.iml" afterPath="$PROJECT_DIR$/src/out/production/shakeIR/shakeIR.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/Response.java" afterPath="$PROJECT_DIR$/src/core/Response.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/web/search.jsp" afterPath="$PROJECT_DIR$/webRoot/web/search.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/webRoot.iml" afterPath="$PROJECT_DIR$/webRoot/webRoot.iml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,38 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Not.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BooleanExpression/Not.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="8" column="47" lean-forward="false" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QueryLanguageBaseListener.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguageBaseListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QueryLanguageLexer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguageLexer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="QueryLanguageListener.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguageListener.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -110,10 +36,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Documents.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Documents.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/core/Documents.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
+            <state relative-caret-position="7">
               <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
               <folding />
             </state>
@@ -132,6 +58,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webRoot/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-69">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webRoot/web/search.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-391">
+              <caret line="7" column="53" lean-forward="false" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="QueryParser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/core/QueryParser.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -144,13 +90,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Response.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Response.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/core/Response.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="331">
+              <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webResult.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/webResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <folding>
+                <element signature="e#400#401#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -168,6 +132,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -181,7 +152,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/Response.java" />
         <option value="$PROJECT_DIR$/src/core/Documents.java" />
-        <option value="$PROJECT_DIR$/src/core/Response.java" />
         <option value="$PROJECT_DIR$/src/BooleanExpression/And.java" />
         <option value="$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanExpression.java" />
         <option value="$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanOperator.java" />
@@ -200,6 +170,9 @@
         <option value="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageParser.java" />
         <option value="$PROJECT_DIR$/src/core/QueryListener.java" />
         <option value="$PROJECT_DIR$/src/core/QueryParser.java" />
+        <option value="$PROJECT_DIR$/webRoot/web/search.jsp" />
+        <option value="$PROJECT_DIR$/src/core/Response.java" />
+        <option value="$PROJECT_DIR$/src/core/webResult.java" />
       </list>
     </option>
   </component>
@@ -209,11 +182,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1118" />
-    <option name="y" value="40" />
-    <option name="width" value="1056" />
-    <option name="height" value="965" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1039" />
+    <option name="y" value="35" />
+    <option name="width" value="869" />
+    <option name="height" value="1012" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -252,6 +228,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="shakeIR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shakeIR" type="462c0819:PsiDirectoryNode" />
+              <item name="webRoot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shakeIR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shakeIR" type="462c0819:PsiDirectoryNode" />
+              <item name="webRoot" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -261,8 +248,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/webRoot" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/apache-tomcat-7.0.82/lib/servlet-api.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -372,15 +359,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506740670021</updated>
-      <workItem from="1507468337178" duration="890000" />
+      <workItem from="1507468337178" duration="1322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="890000" />
+    <option name="totallyTimeSpent" value="1322000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1039" y="35" width="869" height="1012" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -397,10 +384,10 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22860493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3452116" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -544,7 +531,7 @@
         <state relative-caret-position="194">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -589,16 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/QueryListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/core/QueryParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -609,21 +586,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/Response.java">
+    <entry file="file://$PROJECT_DIR$/src/core/Documents.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="7">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/QueryListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/Documents.java">
+    <entry file="file://$PROJECT_DIR$/webRoot/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="-69">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webRoot/web/search.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="7" column="53" lean-forward="false" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/webResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -679,12 +698,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>shakeIR</last-edited>
+          <last-edited>webRoot</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -704,7 +722,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>antlr-4.7-complete</last-edited>
+          <last-edited>servlet-api</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

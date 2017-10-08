@@ -6,7 +6,7 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<jsp:directive.page import="Response" />
+<jsp:directive.page import="src.core.Response" />
 <jsp:directive.page import=" " />
 <%@ page import="javax.xml.transform.Result" %>
 <%@ page import="java.util.ArrayList" %>
