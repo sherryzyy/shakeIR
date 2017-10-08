@@ -26,7 +26,7 @@ public class QueryParser {
         return booleanExpression;
     }
 
-    public List<Integer> match(InvertedIndex invertedIndex){
+    public ArrayList<Integer> match(InvertedIndex invertedIndex){
         if(invertedIndex !=null&&invertedIndex.InvertedIndex.size()>0){
             return booleanExpression.evaluate(invertedIndex);
         }

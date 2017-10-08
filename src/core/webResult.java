@@ -4,13 +4,13 @@ public class webResult {
     private String title;
     private String content;
     private String url;
-    private String date;
 
-    public webResult(String title, String content, String url, String date) {
+
+    public webResult(String title, String content, String url) {
         this.title = title;
         this.content = content;
         this.url = url;
-        this.date = date;
+
     }
 
     public String getTitle() {
@@ -25,7 +25,5 @@ public class webResult {
         return url;
     }
 
-    public String getDate() {
-        return date;
-    }
+
 }

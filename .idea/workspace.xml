@@ -1,9 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="webRoot:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="51966219-205d-488a-8cfc-49cd73aca3e3" name="Default" comment="">
+    <list default="true" id="848447c9-da10-487d-8782-fba6e4aadedc" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/.idea/artifacts/shakeIRweb_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/.idea/libraries/antlr_4_7_complete.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/.idea/libraries/servlet_api.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/artifacts/shakeIRweb_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/artifacts/shakeIRweb_war_exploded/image/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/artifacts/shakeIRweb_war_exploded/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/artifacts/shakeIRweb_war_exploded/search.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/.idea/artifacts/shakeIRweb_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/.idea/libraries/antlr_4_7_complete.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/And.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/BinaryBooleanExpression.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/BinaryBooleanOperator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/BooleanExpression.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/BooleanLiteral.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/InvertedIndex$Info.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/InvertedIndex.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/NestedBooleanExpression.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/Not.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/Or.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/Term.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/UnaryBooleanExpression.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/UnaryBooleanOperator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Documents.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/InvertedIndexTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/QueryListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/QueryParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/A Funeral Elegy for Master William Peter.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/A Lover's Complaint.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/A Midsummer Night's Dream.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/All's Well That Ends Well.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Antony and Cleopatra.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/As You Like It.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Cymbeline.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/King Lear.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Love's Labour's Lost.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Measure for Measure.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Much Ado About Nothing.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Othello, the Moore of Venice.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Pericles, Prince of Tyre.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Romeo and Juliet.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Comedy of Errors.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The First part of King Henry the Fourth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The First part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Life and Death of Julius Caesar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Life and Death of King John.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Life and Death of Richard the Second.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Life and Death of Richard the Third.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Life of King Henry the Eighth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Life of King Henry the Fifth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Merchant of Venice.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Merry Wives of Windsor.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Rape of Lucrece.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Second part of King Henry the Fourth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Second part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Sonnets.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Taming of the Shrew.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Tempest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Third part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Tragedy of Coriolanus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Tragedy of Hamlet, Prince of Denmark.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Tragedy of Macbeth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Timon of Athens.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Titus Andronicus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Troilus and Cressida.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Twelfth Night.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Two Gentlemen of Verona.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Venus and Adonis.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Winter's Tale.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguage.g" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguage.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageBaseListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageLexer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageLexer.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$BinaryOpContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$Boolean_literalContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$ExprContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$LiteralExprContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$NestedExprContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$ParseContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$TermExprContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$UnaryExprContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$UnaryOpContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/shakeIR.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/test.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/shakeIR.iml" afterPath="$PROJECT_DIR$/.idea/shakeIR.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/QueryParser.java" afterPath="$PROJECT_DIR$/src/core/QueryParser.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/Response.java" afterPath="$PROJECT_DIR$/src/core/Response.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/webResult.java" afterPath="$PROJECT_DIR$/src/core/webResult.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/web/search.jsp" afterPath="$PROJECT_DIR$/webRoot/web/search.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/webRoot.iml" afterPath="$PROJECT_DIR$/webRoot/webRoot.iml" />
     </list>
@@ -15,129 +119,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="QueryLanguageListener.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguageListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QueryLanguageParser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguageParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="13" column="69" lean-forward="false" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Documents.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/core/Documents.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7">
-              <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QueryListener.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/core/QueryListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webRoot/web/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-69">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="search.jsp" pinned="false" current-in-tab="false">
+    <leaf>
+      <file leaf-file-name="search.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webRoot/web/search.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-391">
-              <caret line="7" column="53" lean-forward="false" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QueryParser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/core/QueryParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Response.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/core/Response.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webResult.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/core/webResult.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-              <folding>
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#494#495#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
-                <element signature="e#551#552#0" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shakeIR.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/core/shakeIR.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-69">
+              <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -150,29 +143,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Response.java" />
-        <option value="$PROJECT_DIR$/src/core/Documents.java" />
-        <option value="$PROJECT_DIR$/src/BooleanExpression/And.java" />
-        <option value="$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanExpression.java" />
-        <option value="$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanOperator.java" />
-        <option value="$PROJECT_DIR$/src/BooleanExpression/BooleanExpression.java" />
-        <option value="$PROJECT_DIR$/src/BooleanExpression/BooleanLiteral.java" />
-        <option value="$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java" />
-        <option value="$PROJECT_DIR$/src/BooleanExpression/NestedBooleanExpression.java" />
-        <option value="$PROJECT_DIR$/src/BooleanExpression/Or.java" />
-        <option value="$PROJECT_DIR$/src/BooleanExpression/Term.java" />
-        <option value="$PROJECT_DIR$/src/BooleanExpression/UnaryBooleanExpression.java" />
-        <option value="$PROJECT_DIR$/src/BooleanExpression/UnaryBooleanOperator.java" />
-        <option value="$PROJECT_DIR$/src/BooleanExpression/Not.java" />
-        <option value="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageBaseListener.java" />
-        <option value="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageLexer.java" />
-        <option value="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageListener.java" />
-        <option value="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageParser.java" />
-        <option value="$PROJECT_DIR$/src/core/QueryListener.java" />
-        <option value="$PROJECT_DIR$/src/core/QueryParser.java" />
         <option value="$PROJECT_DIR$/webRoot/web/search.jsp" />
-        <option value="$PROJECT_DIR$/src/core/Response.java" />
-        <option value="$PROJECT_DIR$/src/core/webResult.java" />
       </list>
     </option>
   </component>
@@ -182,14 +153,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1039" />
-    <option name="y" value="35" />
-    <option name="width" value="869" />
-    <option name="height" value="1012" />
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="809" />
+    <option name="y" value="28" />
+    <option name="width" value="1056" />
+    <option name="height" value="965" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -206,9 +181,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -243,16 +217,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/apache-tomcat-7.0.82/lib/servlet-api.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -266,7 +240,81 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.Tomcat7">
+    <configuration name="Tomcat7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.82" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/shakeIR/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="webRoot:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/shakeIR" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_shakeIR_3" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52046" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="webRoot:war exploded" />
+        </option>
+      </method>
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -354,51 +402,51 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="51966219-205d-488a-8cfc-49cd73aca3e3" name="Default" comment="" />
-      <created>1506740670021</created>
+      <changelist id="848447c9-da10-487d-8782-fba6e4aadedc" name="Default" comment="" />
+      <created>1507473193987</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1506740670021</updated>
-      <workItem from="1507468337178" duration="1322000" />
+      <updated>1507473193987</updated>
+      <workItem from="1507473195206" duration="1487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1322000" />
+    <option name="totallyTimeSpent" value="1487000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1039" y="35" width="869" height="1012" extended-state="0" />
-    <editor active="true" />
+    <frame x="809" y="28" width="1056" height="965" extended-state="0" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Style Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22860493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3452116" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Style Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3048077" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -413,236 +461,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/InvertedIndex.java" />
-    <entry file="file://$PROJECT_DIR$/src/Response.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/InvertedIndexTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/And.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="25" lean-forward="true" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/BooleanExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/BooleanLiteral.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/NestedBooleanExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/Or.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/Term.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/UnaryBooleanExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/UnaryBooleanOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/Not.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="8" column="47" lean-forward="false" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguageBaseListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguageLexer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguageListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguageParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="13" column="69" lean-forward="false" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/shakeIR.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/QueryParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/Documents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/QueryListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webRoot/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webRoot/web/search.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
-          <caret line="7" column="53" lean-forward="false" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        <state relative-caret-position="-69">
+          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/webResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-          <folding>
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/Response.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -652,10 +475,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>webRoot:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -698,11 +523,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>webRoot</last-edited>
+          <last-edited>shakeIR</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
