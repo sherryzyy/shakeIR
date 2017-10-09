@@ -17,8 +17,10 @@ public class Response {
     private static InvertedIndex invertedIndex = new InvertedIndex();
 
 
-    public ArrayList<webResult> getResponse(String query) throws IOException {
+    public ArrayList<webResult> getResponse(String rawquery) throws IOException {
 
+        ArrayList<String> querylist=InvertedIndex.preprocess(rawquery.split("\\s+"));
+        String query=String.join(querylist.toArray()," ");
         ArrayList<webResult> rtn = new ArrayList<>();
         invertedIndex.getFileIndex();
         invertedIndex.getWordFrequency();

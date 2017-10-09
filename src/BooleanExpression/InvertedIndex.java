@@ -1,5 +1,8 @@
 package BooleanExpression;//import org.tartarus.snowball.SnowballStemmer;
 
+import org.tartarus.snowball.SnowballStemmer;
+import org.tartarus.snowball.ext.englishStemmer;
+
 import java.awt.List;
 import java.io.*;
 import java.util.*;
@@ -19,12 +22,12 @@ public class InvertedIndex {
 
 
         public Info() {
-            posting=new ArrayList<>();
+            posting = new ArrayList<>();
             posIndex = new TreeMap<>();
             wordfreq = new TreeMap<>();
         }
 
-        public Info(int docfreq, TreeMap<Integer,Integer> posIndex, TreeMap<Integer, Integer> wordfreq) {
+        public Info(int docfreq, TreeMap<Integer, Integer> posIndex, TreeMap<Integer, Integer> wordfreq) {
             this.docfreq = docfreq;
             this.posIndex = posIndex;
             this.wordfreq = wordfreq;
@@ -32,7 +35,7 @@ public class InvertedIndex {
 
     }
 
-    public HashMap<Integer,String> docIndex;
+    public HashMap<Integer, String> docIndex;
     public TreeMap<String, Info> InvertedIndex;
 
     public InvertedIndex() {
@@ -40,7 +43,7 @@ public class InvertedIndex {
         InvertedIndex = new TreeMap<>();
     }
 
-    public InvertedIndex(HashMap<Integer,String> docIndex, TreeMap<String, Info> invertedIndex) {
+    public InvertedIndex(HashMap<Integer, String> docIndex, TreeMap<String, Info> invertedIndex) {
         this.docIndex = docIndex;
         InvertedIndex = invertedIndex;
     }
@@ -56,7 +59,7 @@ public class InvertedIndex {
                 bufw.write(i + "\t" + docPath);
                 bufw.newLine();
                 bufw.flush();
-                docIndex.put(i,docPath);
+                docIndex.put(i, docPath);
             }
         } catch (IOException e) {
             System.out.println("打开文件失败");
@@ -86,13 +89,13 @@ public class InvertedIndex {
             String docPath = docInfo[1];
             bufrDoc = new BufferedReader(new FileReader(docPath));
             String wordLine = null;
-            Integer ByteRecord=0;
+            Integer ByteRecord = 0;
             while ((wordLine = bufrDoc.readLine()) != null) {
-                ByteRecord+=wordLine.getBytes().length;
-                String[] words = wordLine.split("\\W");
+                ByteRecord += wordLine.getBytes().length;
+                ArrayList<String> words=preprocess(wordLine.split("\\W"));
                 for (String wordOfDoc : words) {
                     if (!wordOfDoc.equals("")) {
-                        getWordFrequencyHelp(wordOfDoc, docID,ByteRecord);
+                        getWordFrequencyHelp(wordOfDoc, docID, ByteRecord);
                     }
                 }
             }
@@ -111,7 +114,7 @@ public class InvertedIndex {
                 Iterator iterator1 = entry.iterator();
                 while (iterator1.hasNext()) {
                     Map.Entry fre = (Map.Entry) iterator1.next();
-                    writeinfo+="\t"+fre.getKey();
+                    writeinfo += "\t" + fre.getKey();
                     value.posting.add(Integer.parseInt(fre.getKey().toString()));
                 }
 
@@ -126,29 +129,42 @@ public class InvertedIndex {
     }
 
 
-    private void getWordFrequencyHelp(String wordOfDoc, Integer docID,Integer ByteRecord) {
+    private void getWordFrequencyHelp(String wordOfDoc, Integer docID, Integer ByteRecord) {
         wordOfDoc = wordOfDoc.toLowerCase();
         if (!InvertedIndex.containsKey(wordOfDoc)) {//first apperence in counting
             Info tmp = new Info();
             tmp.wordfreq.put(docID, 1);
-            tmp.docfreq+=1;
-            tmp.totalfreq+=1;
-            tmp.posIndex.put(docID,ByteRecord);
+            tmp.docfreq += 1;
+            tmp.totalfreq += 1;
+            tmp.posIndex.put(docID, ByteRecord);
             InvertedIndex.put(wordOfDoc, tmp);
 
         } else {
             Info tmp = InvertedIndex.get(wordOfDoc);
             Integer count = tmp.wordfreq.get(docID);
-            if(count==null){//first apperence in this docID
-                count=1;
-                tmp.docfreq+=1;
-            }else{
+            if (count == null) {//first apperence in this docID
+                count = 1;
+                tmp.docfreq += 1;
+            } else {
                 count++;
             }
             tmp.wordfreq.put(docID, count);
-            tmp.totalfreq+=1;
-            tmp.posIndex.put(docID,ByteRecord);
+            tmp.totalfreq += 1;
+            tmp.posIndex.put(docID, ByteRecord);
             InvertedIndex.put(wordOfDoc, tmp);
         }
     }
+
+    public static ArrayList<String> preprocess(String[] words) {
+        ArrayList<String> rtn = new ArrayList<>();
+        SnowballStemmer snowballStemmer = new englishStemmer();
+        for (String word : words) {
+            snowballStemmer.setCurrent(word);
+            snowballStemmer.stem();
+            rtn.add(snowballStemmer.getCurrent());
+        }
+        return rtn;
+    }
 }
+
+

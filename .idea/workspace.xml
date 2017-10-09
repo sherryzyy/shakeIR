@@ -6,7 +6,21 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46143da9-96d2-48b1-9dc1-2dd9640659e7" name="Default" comment="" />
+    <list default="true" id="46143da9-96d2-48b1-9dc1-2dd9640659e7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/BooleanExpression/InvertedIndex$Info.class" afterPath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/BooleanExpression/InvertedIndex$Info.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/BooleanExpression/InvertedIndex.class" afterPath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/BooleanExpression/InvertedIndex.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/core/Response.class" afterPath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/core/Response.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/BooleanExpression/InvertedIndex$Info.class" afterPath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/BooleanExpression/InvertedIndex$Info.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/BooleanExpression/InvertedIndex.class" afterPath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/BooleanExpression/InvertedIndex.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/BooleanExpression/InvertedIndexTest.class" afterPath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/BooleanExpression/InvertedIndexTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/core/Response.class" afterPath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/core/Response.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/shakeIR_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/shakeIR_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shakeIR.iml" afterPath="$PROJECT_DIR$/shakeIR.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/Response.java" afterPath="$PROJECT_DIR$/src/core/Response.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,14 +31,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Response.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Response.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/core/Response.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            <state relative-caret-position="267">
+              <caret line="22" column="58" lean-forward="true" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractCollection.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/AbstractCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="557">
+              <caret line="452" column="18" lean-forward="false" selection-start-line="452" selection-start-column="18" selection-end-line="452" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -39,12 +63,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InvertedIndex.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InvertedIndex.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="16" column="67" lean-forward="false" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+            <state relative-caret-position="267">
+              <caret line="158" column="5" lean-forward="false" selection-start-line="157" selection-start-column="4" selection-end-line="166" selection-end-column="5" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InvertedIndexTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,7 +124,6 @@
         <option value="$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanOperator.java" />
         <option value="$PROJECT_DIR$/src/BooleanExpression/BooleanExpression.java" />
         <option value="$PROJECT_DIR$/src/BooleanExpression/BooleanLiteral.java" />
-        <option value="$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java" />
         <option value="$PROJECT_DIR$/src/BooleanExpression/NestedBooleanExpression.java" />
         <option value="$PROJECT_DIR$/src/BooleanExpression/Not.java" />
         <option value="$PROJECT_DIR$/src/BooleanExpression/Or.java" />
@@ -100,8 +135,9 @@
         <option value="$PROJECT_DIR$/src/core/webResult.java" />
         <option value="$PROJECT_DIR$/src/core/QueryListener.java" />
         <option value="$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class" />
-        <option value="$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java" />
         <option value="$PROJECT_DIR$/webRoot/web/search.jsp" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java" />
         <option value="$PROJECT_DIR$/src/core/Response.java" />
       </list>
     </option>
@@ -120,9 +156,9 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="18" />
-    <option name="y" value="41" />
-    <option name="width" value="1056" />
+    <option name="x" value="837" />
+    <option name="y" value="33" />
+    <option name="width" value="788" />
     <option name="height" value="965" />
   </component>
   <component name="ProjectView">
@@ -205,10 +241,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15527344" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/BooleanRetrievalTool-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/libstemmer.jar!/" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="SearchEverywhereHistoryKey" value="charstre&#9;PSI&#9;JAVA://org.antlr.v4.runtime.CharStream" />
@@ -233,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat8">
+  <component name="RunManager" selected="JUnit.InvertedIndexTest.getFileIndex (1)">
     <configuration name="InvertedIndexTest.getFileIndex (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -464,20 +500,11 @@
       <option name="presentableId" value="Default" />
       <updated>1507552192280</updated>
       <workItem from="1507552194077" duration="4101000" />
-      <workItem from="1507556329667" duration="2238000" />
+      <workItem from="1507556329667" duration="4539000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="InvertedIndexTest_getFileIndex - 2017.10.09 at 20h 43m 11s.xml">
-      <configuration name="InvertedIndexTest.getFileIndex" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="InvertedIndexTest_getFileIndex - 2017.10.09 at 20h 45m 34s.xml">
-      <configuration name="InvertedIndexTest.getFileIndex" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="InvertedIndexTest_getFileIndex - 2017.10.09 at 21h 00m 47s.xml">
-      <configuration name="InvertedIndexTest.getFileIndex" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="InvertedIndexTest_getFileIndex_(1) - 2017.10.09 at 21h 06m 17s.xml">
       <configuration name="InvertedIndexTest.getFileIndex (1)" configurationId="JUnit" />
     </history-entry>
@@ -493,13 +520,27 @@
     <history-entry file="InvertedIndexTest_getFileIndex_(1) - 2017.10.09 at 21h 13m 42s.xml">
       <configuration name="InvertedIndexTest.getFileIndex (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="InvertedIndexTest_getFileIndex_(1) - 2017.10.09 at 22h 46m 34s.xml">
+      <configuration name="InvertedIndexTest.getFileIndex (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InvertedIndexTest_getFileIndex_(1) - 2017.10.09 at 22h 47m 00s.xml">
+      <configuration name="InvertedIndexTest.getFileIndex (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InvertedIndexTest_getFileIndex_(1) - 2017.10.09 at 22h 47m 15s.xml">
+      <configuration name="InvertedIndexTest.getFileIndex (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InvertedIndexTest_getFileIndex_(1) - 2017.10.09 at 22h 47m 26s.xml">
+      <configuration name="InvertedIndexTest.getFileIndex (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InvertedIndexTest_getFileIndex_(1) - 2017.10.09 at 22h 53m 50s.xml">
+      <configuration name="InvertedIndexTest.getFileIndex (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6339000" />
+    <option name="totallyTimeSpent" value="8640000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -513,16 +554,16 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39952996" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278496" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3269639" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29723993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29723993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Style Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30677083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16770834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -543,12 +584,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/webRoot/web/search.jsp</url>
           <line>43</line>
@@ -638,6 +673,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -696,6 +732,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding>
+            <element signature="e#372#391#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -741,14 +780,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webRoot/web/search.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
@@ -757,13 +788,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/Response.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/AbstractCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="557">
+          <caret line="452" column="18" lean-forward="false" selection-start-line="452" selection-start-column="18" selection-end-line="452" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -777,9 +806,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="16" column="67" lean-forward="false" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+        <state relative-caret-position="267">
+          <caret line="158" column="5" lean-forward="false" selection-start-line="157" selection-start-column="4" selection-end-line="166" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="22" column="58" lean-forward="true" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -862,7 +911,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>antlr-4.7-complete</last-edited>
+          <last-edited>libstemmer</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
