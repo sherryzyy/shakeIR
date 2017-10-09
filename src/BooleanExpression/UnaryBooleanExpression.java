@@ -1,4 +1,4 @@
-package src.BooleanExpression;
+package BooleanExpression;
 
 import java.util.ArrayList;
 import java.util.HashSet;

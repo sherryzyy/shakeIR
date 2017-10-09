@@ -1,6 +1,6 @@
-package src.core;
+package core;
 
-import src.BooleanExpression.*;
+import BooleanExpression.*;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -25,7 +25,7 @@ public class Response {
         QueryParser queryParser = new QueryParser();
         BooleanExpression booleanExpression = queryParser.parse(query);
         ArrayList<Integer> num = queryParser.match(invertedIndex);
-        int len = 100;//read bytes
+        int len = 1000;//read bytes
         for (Integer docID : num) {
 
             String url = invertedIndex.docIndex.get(docID);

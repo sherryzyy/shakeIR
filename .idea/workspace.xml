@@ -2,115 +2,446 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="webRoot:war exploded" />
+      <artifact name="shakeIR:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="848447c9-da10-487d-8782-fba6e4aadedc" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/.idea/artifacts/shakeIRweb_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/.idea/libraries/antlr_4_7_complete.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/.idea/libraries/servlet_api.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/artifacts/shakeIRweb_war_exploded/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/artifacts/shakeIRweb_war_exploded/image/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/artifacts/shakeIRweb_war_exploded/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/artifacts/shakeIRweb_war_exploded/search.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/.idea/artifacts/shakeIRweb_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/.idea/libraries/antlr_4_7_complete.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/And.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/BinaryBooleanExpression.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/BinaryBooleanOperator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/BooleanExpression.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/BooleanLiteral.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/InvertedIndex$Info.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/InvertedIndex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/NestedBooleanExpression.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/Not.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/Or.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/Term.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/UnaryBooleanExpression.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/BooleanExpression/UnaryBooleanOperator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Documents.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/InvertedIndexTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/QueryListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/QueryParser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/A Funeral Elegy for Master William Peter.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/A Lover's Complaint.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/A Midsummer Night's Dream.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/All's Well That Ends Well.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Antony and Cleopatra.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/As You Like It.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Cymbeline.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/King Lear.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Love's Labour's Lost.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Measure for Measure.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Much Ado About Nothing.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Othello, the Moore of Venice.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Pericles, Prince of Tyre.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Romeo and Juliet.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Comedy of Errors.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The First part of King Henry the Fourth.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The First part of King Henry the Sixth.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Life and Death of Julius Caesar.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Life and Death of King John.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Life and Death of Richard the Second.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Life and Death of Richard the Third.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Life of King Henry the Eighth.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Life of King Henry the Fifth.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Merchant of Venice.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Merry Wives of Windsor.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Rape of Lucrece.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Second part of King Henry the Fourth.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Second part of King Henry the Sixth.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Sonnets.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Taming of the Shrew.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Tempest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Third part of King Henry the Sixth.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Tragedy of Coriolanus.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Tragedy of Hamlet, Prince of Denmark.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/The Tragedy of Macbeth.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Timon of Athens.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Titus Andronicus.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Troilus and Cressida.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Twelfth Night.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Two Gentlemen of Verona.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Venus and Adonis.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/Shakespeare/Winter's Tale.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguage.g" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguage.tokens" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageBaseListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageLexer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageLexer.tokens" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$BinaryOpContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$Boolean_literalContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$ExprContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$LiteralExprContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$NestedExprContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$ParseContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$TermExprContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$UnaryExprContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser$UnaryOpContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/antlr4Generated/QueryLanguageParser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/shakeIR.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/out/production/shakeIR/test.class" afterPath="" />
+    <list default="true" id="46143da9-96d2-48b1-9dc1-2dd9640659e7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/webRoot_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/shakeIR.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/webRoot_war_exploded/WEB-INF/lib/antlr-4.7-complete.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/webRoot_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/webRoot_war_exploded/image/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/webRoot_war_exploded/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/webRoot_war_exploded/search.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/.idea/artifacts/webRoot_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/.idea/libraries/antlr_4_7_complete.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/.idea/libraries/servlet_api.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/.idea/shakeIR.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/1.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/c0c485a8d024cc8b77e2bb0e29b46966.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/canstock26700214.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/lib/antlr-4.7-complete.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/lib/libstemmer.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/out/artifacts/webRoot_war_exploded/WEB-INF/lib/antlr-4.7-complete.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/out/artifacts/webRoot_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/out/artifacts/webRoot_war_exploded/image/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/out/artifacts/webRoot_war_exploded/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/out/artifacts/webRoot_war_exploded/search.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/.idea/artifacts/webRoot_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/.idea/libraries/antlr_4_7_complete.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/.idea/libraries/servlet_api.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/.idea/shakeIR.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/1.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/c0c485a8d024cc8b77e2bb0e29b46966.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/canstock26700214.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/lib/antlr-4.7-complete.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/lib/libstemmer.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/WEB-INF/lib/antlr-4.7-complete.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/image/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/1.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/c0c485a8d024cc8b77e2bb0e29b46966.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/canstock26700214.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/lib/antlr-4.7-complete.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/lib/libstemmer.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/WEB-INF/lib/antlr-4.7-complete.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/image/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/1.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/c0c485a8d024cc8b77e2bb0e29b46966.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/canstock26700214.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/lib/antlr-4.7-complete.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/lib/libstemmer.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/WEB-INF/lib/antlr-4.7-complete.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/image/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/search.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/1.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/c0c485a8d024cc8b77e2bb0e29b46966.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/canstock26700214.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/lib/antlr-4.7-complete.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/lib/libstemmer.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/WEB-INF/lib/antlr-4.7-complete.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/image/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/search.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/1.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/c0c485a8d024cc8b77e2bb0e29b46966.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/canstock26700214.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/lib/antlr-4.7-complete.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/lib/libstemmer.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/WEB-INF/lib/antlr-4.7-complete.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/image/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/out/artifacts/webRoot_war_exploded/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/A Funeral Elegy for Master William Peter.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/A Lover's Complaint.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/A Midsummer Night's Dream.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/All's Well That Ends Well.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Antony and Cleopatra.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/As You Like It.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Cymbeline.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/King Lear.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Love's Labour's Lost.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Measure for Measure.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Much Ado About Nothing.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Othello, the Moore of Venice.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Pericles, Prince of Tyre.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Romeo and Juliet.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Comedy of Errors.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The First part of King Henry the Fourth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The First part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of Julius Caesar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of King John.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of Richard the Second.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of Richard the Third.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life of King Henry the Eighth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life of King Henry the Fifth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Merchant of Venice.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Merry Wives of Windsor.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Rape of Lucrece.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Second part of King Henry the Fourth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Second part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Sonnets.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Taming of the Shrew.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Tempest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Third part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Tragedy of Coriolanus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Tragedy of Hamlet, Prince of Denmark.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Tragedy of Macbeth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Timon of Athens.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Titus Andronicus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Troilus and Cressida.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Twelfth Night.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Two Gentlemen of Verona.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Venus and Adonis.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Winter's Tale.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/antlr4Generated/QueryLanguage.g" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/antlr4Generated/QueryLanguage.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/antlr4Generated/QueryLanguageLexer.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/william-shakespeare_5029159247682.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/A Funeral Elegy for Master William Peter.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/A Lover's Complaint.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/A Midsummer Night's Dream.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/All's Well That Ends Well.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Antony and Cleopatra.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/As You Like It.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Cymbeline.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/King Lear.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Love's Labour's Lost.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Measure for Measure.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Much Ado About Nothing.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Othello, the Moore of Venice.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Pericles, Prince of Tyre.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Romeo and Juliet.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Comedy of Errors.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The First part of King Henry the Fourth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The First part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of Julius Caesar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of King John.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of Richard the Second.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of Richard the Third.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life of King Henry the Eighth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life of King Henry the Fifth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Merchant of Venice.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Merry Wives of Windsor.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Rape of Lucrece.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Second part of King Henry the Fourth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Second part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Sonnets.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Taming of the Shrew.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Tempest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Third part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Tragedy of Coriolanus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Tragedy of Hamlet, Prince of Denmark.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Tragedy of Macbeth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Timon of Athens.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Titus Andronicus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Troilus and Cressida.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Twelfth Night.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Two Gentlemen of Verona.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Venus and Adonis.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Winter's Tale.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/antlr4Generated/QueryLanguage.g" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/antlr4Generated/QueryLanguage.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/antlr4Generated/QueryLanguageLexer.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/william-shakespeare_5029159247682.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/A Funeral Elegy for Master William Peter.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/A Lover's Complaint.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/A Midsummer Night's Dream.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/All's Well That Ends Well.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Antony and Cleopatra.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/As You Like It.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Cymbeline.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/King Lear.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Love's Labour's Lost.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Measure for Measure.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Much Ado About Nothing.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Othello, the Moore of Venice.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Pericles, Prince of Tyre.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Romeo and Juliet.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Comedy of Errors.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The First part of King Henry the Fourth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The First part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of Julius Caesar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of King John.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of Richard the Second.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of Richard the Third.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life of King Henry the Eighth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life of King Henry the Fifth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Merchant of Venice.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Merry Wives of Windsor.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Rape of Lucrece.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Second part of King Henry the Fourth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Second part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Sonnets.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Taming of the Shrew.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Tempest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Third part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Tragedy of Coriolanus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Tragedy of Hamlet, Prince of Denmark.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Tragedy of Macbeth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Timon of Athens.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Titus Andronicus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Troilus and Cressida.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Twelfth Night.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Two Gentlemen of Verona.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Venus and Adonis.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Winter's Tale.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/antlr4Generated/QueryLanguage.g" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/antlr4Generated/QueryLanguage.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/src/antlr4Generated/QueryLanguageLexer.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/production/shakeIR/william-shakespeare_5029159247682.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/A Funeral Elegy for Master William Peter.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/A Lover's Complaint.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/A Midsummer Night's Dream.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/All's Well That Ends Well.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Antony and Cleopatra.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/As You Like It.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Cymbeline.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/King Lear.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Love's Labour's Lost.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Measure for Measure.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Much Ado About Nothing.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Othello, the Moore of Venice.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Pericles, Prince of Tyre.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Romeo and Juliet.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Comedy of Errors.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The First part of King Henry the Fourth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The First part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of Julius Caesar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of King John.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of Richard the Second.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of Richard the Third.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life of King Henry the Eighth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Life of King Henry the Fifth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Merchant of Venice.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Merry Wives of Windsor.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Rape of Lucrece.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Second part of King Henry the Fourth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Second part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Sonnets.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Taming of the Shrew.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Tempest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Third part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Tragedy of Coriolanus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Tragedy of Hamlet, Prince of Denmark.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/The Tragedy of Macbeth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Timon of Athens.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Titus Andronicus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Troilus and Cressida.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Twelfth Night.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Two Gentlemen of Verona.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Venus and Adonis.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/Shakespeare/Winter's Tale.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/antlr4Generated/QueryLanguage.g" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/antlr4Generated/QueryLanguage.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/src/antlr4Generated/QueryLanguageLexer.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/production/shakeIR/william-shakespeare_5029159247682.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/A Funeral Elegy for Master William Peter.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/A Lover's Complaint.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/A Midsummer Night's Dream.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/All's Well That Ends Well.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/Antony and Cleopatra.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/As You Like It.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/Cymbeline.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/King Lear.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/Love's Labour's Lost.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/Measure for Measure.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/Much Ado About Nothing.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/Othello, the Moore of Venice.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/Pericles, Prince of Tyre.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/Romeo and Juliet.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Comedy of Errors.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The First part of King Henry the Fourth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The First part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of Julius Caesar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of King John.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of Richard the Second.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Life and Death of Richard the Third.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Life of King Henry the Eighth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Life of King Henry the Fifth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Merchant of Venice.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Merry Wives of Windsor.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Rape of Lucrece.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Second part of King Henry the Fourth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Second part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Sonnets.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Taming of the Shrew.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Tempest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Third part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Tragedy of Coriolanus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Tragedy of Hamlet, Prince of Denmark.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/The Tragedy of Macbeth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/Timon of Athens.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/Titus Andronicus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/Troilus and Cressida.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/Twelfth Night.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/Two Gentlemen of Verona.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/Venus and Adonis.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/Shakespeare/Winter's Tale.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/antlr4Generated/QueryLanguage.g" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/antlr4Generated/QueryLanguage.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/antlr4Generated/QueryLanguageLexer.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/src/core/shakeIR.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/production/shakeIR/william-shakespeare_5029159247682.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/A Funeral Elegy for Master William Peter.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/A Lover's Complaint.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/A Midsummer Night's Dream.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/All's Well That Ends Well.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/Antony and Cleopatra.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/As You Like It.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/Cymbeline.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/King Lear.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/Love's Labour's Lost.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/Measure for Measure.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/Much Ado About Nothing.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/Othello, the Moore of Venice.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/Pericles, Prince of Tyre.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/Romeo and Juliet.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Comedy of Errors.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The First part of King Henry the Fourth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The First part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Life and Death of Julius Caesar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Life and Death of King John.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Life and Death of Richard the Second.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Life and Death of Richard the Third.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Life of King Henry the Eighth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Life of King Henry the Fifth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Merchant of Venice.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Merry Wives of Windsor.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Rape of Lucrece.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Second part of King Henry the Fourth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Second part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Sonnets.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Taming of the Shrew.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Tempest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Third part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Tragedy of Coriolanus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Tragedy of Hamlet, Prince of Denmark.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/The Tragedy of Macbeth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/Timon of Athens.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/Titus Andronicus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/Troilus and Cressida.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/Twelfth Night.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/Two Gentlemen of Verona.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/Venus and Adonis.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/Shakespeare/Winter's Tale.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/antlr4Generated/QueryLanguage.g" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/antlr4Generated/QueryLanguage.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/antlr4Generated/QueryLanguageLexer.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/src/core/shakeIR.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/production/shakeIR/william-shakespeare_5029159247682.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/A Funeral Elegy for Master William Peter.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/A Lover's Complaint.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/A Midsummer Night's Dream.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/All's Well That Ends Well.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/Antony and Cleopatra.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/As You Like It.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/Cymbeline.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/King Lear.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/Love's Labour's Lost.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/Measure for Measure.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/Much Ado About Nothing.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/Othello, the Moore of Venice.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/Pericles, Prince of Tyre.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/Romeo and Juliet.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Comedy of Errors.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The First part of King Henry the Fourth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The First part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Life and Death of Julius Caesar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Life and Death of King John.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Life and Death of Richard the Second.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Life and Death of Richard the Third.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Life of King Henry the Eighth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Life of King Henry the Fifth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Merchant of Venice.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Merry Wives of Windsor.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Rape of Lucrece.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Second part of King Henry the Fourth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Second part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Sonnets.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Taming of the Shrew.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Tempest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Third part of King Henry the Sixth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Tragedy of Coriolanus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Tragedy of Hamlet, Prince of Denmark.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/The Tragedy of Macbeth.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/Timon of Athens.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/Titus Andronicus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/Troilus and Cressida.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/Twelfth Night.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/Two Gentlemen of Verona.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/Venus and Adonis.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Shakespeare/Winter's Tale.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/shakeIR.iml" afterPath="$PROJECT_DIR$/.idea/shakeIR.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/And.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/And.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanExpression.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanExpression.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanOperator.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanOperator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/BooleanExpression.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/BooleanExpression.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/BooleanLiteral.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/BooleanLiteral.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/NestedBooleanExpression.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/NestedBooleanExpression.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/Not.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/Not.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/Or.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/Or.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/Term.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/Term.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/UnaryBooleanExpression.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/UnaryBooleanExpression.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/UnaryBooleanOperator.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/UnaryBooleanOperator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageBaseListener.java" afterPath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageBaseListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageLexer.java" afterPath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageLexer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageListener.java" afterPath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageParser.java" afterPath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/Documents.java" afterPath="$PROJECT_DIR$/src/core/Documents.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/QueryListener.java" afterPath="$PROJECT_DIR$/src/core/QueryListener.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/QueryParser.java" afterPath="$PROJECT_DIR$/src/core/QueryParser.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/Response.java" afterPath="$PROJECT_DIR$/src/core/Response.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/webResult.java" afterPath="$PROJECT_DIR$/src/core/webResult.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/web/search.jsp" afterPath="$PROJECT_DIR$/webRoot/web/search.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/webRoot.iml" afterPath="$PROJECT_DIR$/webRoot/webRoot.iml" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,18 +450,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="search.jsp" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Response.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/core/Response.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webRoot/web/search.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-69">
-              <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="313">
+              <caret line="46" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -143,7 +493,30 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageBaseListener.java" />
+        <option value="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageLexer.java" />
+        <option value="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageListener.java" />
+        <option value="$PROJECT_DIR$/src/antlr4Generated/QueryLanguageParser.java" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/And.java" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanExpression.java" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanOperator.java" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/BooleanExpression.java" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/BooleanLiteral.java" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/NestedBooleanExpression.java" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/Not.java" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/Or.java" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/Term.java" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/UnaryBooleanExpression.java" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/UnaryBooleanOperator.java" />
+        <option value="$PROJECT_DIR$/src/core/QueryParser.java" />
+        <option value="$PROJECT_DIR$/src/core/Documents.java" />
+        <option value="$PROJECT_DIR$/src/core/webResult.java" />
+        <option value="$PROJECT_DIR$/src/core/QueryListener.java" />
+        <option value="$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java" />
         <option value="$PROJECT_DIR$/webRoot/web/search.jsp" />
+        <option value="$PROJECT_DIR$/src/core/Response.java" />
       </list>
     </option>
   </component>
@@ -161,9 +534,9 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="809" />
-    <option name="y" value="28" />
-    <option name="width" value="1056" />
+    <option name="x" value="453" />
+    <option name="y" value="33" />
+    <option name="width" value="1172" />
     <option name="height" value="965" />
   </component>
   <component name="ProjectView">
@@ -181,9 +554,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,20 +584,44 @@
               <item name="webRoot" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="shakeIR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shakeIR" type="462c0819:PsiDirectoryNode" />
+              <item name="webRoot" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shakeIR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/apache-tomcat-7.0.82/lib/servlet-api.jar!/" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15527344" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/antlr-4.7-complete.jar!/" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="SearchEverywhereHistoryKey" value="charstre&#9;PSI&#9;JAVA://org.antlr.v4.runtime.CharStream" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="src.BooleanExpression" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -240,20 +635,69 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat7">
-    <configuration name="Tomcat7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.82" ALTERNATIVE_JRE_ENABLED="false">
+  <component name="RunManager" selected="Tomcat Server.Tomcat8">
+    <configuration name="InvertedIndexTest.getFileIndex (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="BooleanExpression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="shakeIR" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="BooleanExpression" />
+      <option name="MAIN_CLASS_NAME" value="BooleanExpression.InvertedIndexTest" />
+      <option name="METHOD_NAME" value="getFileIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="InvertedIndexTest.getFileIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="src.BooleanExpression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="shakeIR" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="src.BooleanExpression" />
+      <option name="MAIN_CLASS_NAME" value="src.BooleanExpression.InvertedIndexTest" />
+      <option name="METHOD_NAME" value="getFileIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.23" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER" value="false" />
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/shakeIR/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="webRoot:war exploded">
+        <artifact name="shakeIR:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/shakeIR" />
+            <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_shakeIR_3" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_shakeIR_5" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -262,7 +706,7 @@
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="52046" />
+        <option name="DEBUG_PORT" value="53845" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -311,7 +755,7 @@
       </ConfigurationWrapper>
       <method>
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="webRoot:war exploded" />
+          <artifact name="shakeIR:war exploded" />
         </option>
       </method>
     </configuration>
@@ -396,58 +840,100 @@
       <properties />
       <listeners />
     </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat8" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.InvertedIndexTest.getFileIndex" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.InvertedIndexTest.getFileIndex (1)" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.InvertedIndexTest.getFileIndex (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.InvertedIndexTest.getFileIndex" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="848447c9-da10-487d-8782-fba6e4aadedc" name="Default" comment="" />
-      <created>1507473193987</created>
+      <changelist id="46143da9-96d2-48b1-9dc1-2dd9640659e7" name="Default" comment="" />
+      <created>1507552192280</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1507473193987</updated>
-      <workItem from="1507473195206" duration="1487000" />
+      <updated>1507552192280</updated>
+      <workItem from="1507552194077" duration="4101000" />
+      <workItem from="1507556329667" duration="756000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="InvertedIndexTest_getFileIndex - 2017.10.09 at 20h 43m 11s.xml">
+      <configuration name="InvertedIndexTest.getFileIndex" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InvertedIndexTest_getFileIndex - 2017.10.09 at 20h 45m 34s.xml">
+      <configuration name="InvertedIndexTest.getFileIndex" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InvertedIndexTest_getFileIndex - 2017.10.09 at 21h 00m 47s.xml">
+      <configuration name="InvertedIndexTest.getFileIndex" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InvertedIndexTest_getFileIndex_(1) - 2017.10.09 at 21h 06m 17s.xml">
+      <configuration name="InvertedIndexTest.getFileIndex (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InvertedIndexTest_getFileIndex_(1) - 2017.10.09 at 21h 07m 17s.xml">
+      <configuration name="InvertedIndexTest.getFileIndex (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InvertedIndexTest_getFileIndex_(1) - 2017.10.09 at 21h 08m 34s.xml">
+      <configuration name="InvertedIndexTest.getFileIndex (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InvertedIndexTest_getFileIndex_(1) - 2017.10.09 at 21h 13m 17s.xml">
+      <configuration name="InvertedIndexTest.getFileIndex (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InvertedIndexTest_getFileIndex_(1) - 2017.10.09 at 21h 13m 42s.xml">
+      <configuration name="InvertedIndexTest.getFileIndex (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1487000" />
+    <option name="totallyTimeSpent" value="4857000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="809" y="28" width="1056" height="965" extended-state="0" />
+    <frame x="453" y="33" width="1172" height="965" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39952996" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Style Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3048077" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278496" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Style Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -457,15 +943,243 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/webRoot/web/search.jsp</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/core/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguageBaseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguageLexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguageParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/And.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/BinaryBooleanOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/BooleanExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/BooleanLiteral.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/NestedBooleanExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/Not.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/Or.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/Term.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/UnaryBooleanExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/UnaryBooleanOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/Documents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/webResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/QueryParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/QueryListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="240" column="0" lean-forward="false" selection-start-line="240" selection-start-column="0" selection-end-line="240" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runner/JUnitCore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/antlr-4.7-complete.jar!/org/antlr/runtime/CharStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/antlr-4.7-complete.jar!/org/antlr/v4/runtime/CharStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="51" column="13" lean-forward="false" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/webRoot/web/search.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
-          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="313">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -475,7 +1189,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>webRoot:war exploded</last-edited>
+          <last-edited>shakeIR:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -528,7 +1242,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -548,7 +1261,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>servlet-api</last-edited>
+          <last-edited>antlr-4.7-complete</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

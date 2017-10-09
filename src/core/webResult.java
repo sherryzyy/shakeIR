@@ -1,4 +1,4 @@
-package src.core;
+package core;
 
 public class webResult {
     private String title;

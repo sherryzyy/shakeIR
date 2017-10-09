@@ -1,4 +1,4 @@
-package src.BooleanExpression;//import org.tartarus.snowball.SnowballStemmer;
+package BooleanExpression;//import org.tartarus.snowball.SnowballStemmer;
 
 import java.awt.List;
 import java.io.*;
@@ -46,7 +46,7 @@ public class InvertedIndex {
     }
 
     public void getFileIndex() {
-        File file = new File("Shakespeare");
+        File file = new File(getClass().getClassLoader().getResource("Shakespeare").getFile());
         File[] filelist = file.listFiles();
         BufferedWriter bufw = null;
         try {
