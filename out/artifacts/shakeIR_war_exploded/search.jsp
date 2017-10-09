@@ -31,7 +31,6 @@
 <form action="search.jsp" name="search" method="get">
     <table border="0" height="30px" width="450px" align="center">
         <tr>
-            <td><img src="logo.jpg" /></td>
             <td width ="66%"><input name="keyword" type="text" maxlength="100" id="textArea" ></td>
             <td height="29" align="center"><input type="submit" value="shake" id = "search"></td>
         </tr>

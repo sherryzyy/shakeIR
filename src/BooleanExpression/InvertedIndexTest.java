@@ -9,7 +9,8 @@ public class InvertedIndexTest {
     public void getFileIndex() throws Exception {
         String rawquery="laughed and caesar";
         ArrayList<String> querylist=InvertedIndex.preprocess(rawquery.split("\\s+"));
-        String query=String.join(" ",querylist.toArray());
+        String query=String.join(" ",(String[])querylist.toArray(new String[0]));
+        System.out.println(query);
     }
 
 }

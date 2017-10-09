@@ -9,7 +9,9 @@
         <webroots>
           <root url="file://$MODULE_DIR$/webRoot/web" relative="/" />
         </webroots>
-        <sourceRoots />
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src" />
+        </sourceRoots>
       </configuration>
     </facet>
   </component>
@@ -25,7 +27,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="Tomcat 8.5.23" level="application_server_libraries" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="apache-tomcat-8.5" level="project" />
     <orderEntry type="module-library">
       <library name="JUnit4">
         <CLASSES>
@@ -36,7 +39,5 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="antlr-4.7-complete" level="project" />
-    <orderEntry type="library" name="libstemmer" level="project" />
   </component>
 </module>

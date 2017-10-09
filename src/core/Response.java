@@ -20,7 +20,7 @@ public class Response {
     public ArrayList<webResult> getResponse(String rawquery) throws IOException {
 
         ArrayList<String> querylist=InvertedIndex.preprocess(rawquery.split("\\s+"));
-        String query=String.join(querylist.toArray()," ");
+        String query=String.join(" ",(String[])querylist.toArray(new String[0]));
         ArrayList<webResult> rtn = new ArrayList<>();
         invertedIndex.getFileIndex();
         invertedIndex.getWordFrequency();
