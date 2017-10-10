@@ -7,662 +7,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33085532-ea2c-46af-954a-f275f384dc71" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/antlr_4_7_complete.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/libstemmer.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/NOTICE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/RELEASE-NOTES" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/RUNNING.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/bootstrap.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/catalina-tasks.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/catalina.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/catalina.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/commons-daemon-native.tar.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/commons-daemon.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/configtest.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/configtest.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/daemon.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/digest.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/digest.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/docIndex.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/service.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/setclasspath.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/setclasspath.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/shutdown.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/shutdown.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/startup.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/startup.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/tcnative-1.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/tomcat-juli.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/tomcat-native.tar.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/tomcat8.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/tomcat8w.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/tool-wrapper.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/tool-wrapper.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/version.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/version.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/bin/wordIndex.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/conf/catalina.policy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/conf/catalina.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/conf/context.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/conf/jaspic-providers.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/conf/jaspic-providers.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/conf/logging.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/conf/server.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/conf/tomcat-users.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/conf/tomcat-users.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/conf/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/annotations-api.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/catalina-ant.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/catalina-ha.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/catalina-storeconfig.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/catalina-tribes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/catalina.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/ecj-4.6.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/el-api.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/jasper-el.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/jasper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/jaspic-api.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/jsp-api.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/servlet-api.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/tomcat-api.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/tomcat-coyote.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/tomcat-dbcp.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/tomcat-i18n-es.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/tomcat-i18n-fr.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/tomcat-i18n-ja.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/tomcat-jdbc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/tomcat-jni.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/tomcat-util-scan.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/tomcat-util.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/tomcat-websocket.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/lib/websocket-api.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/temp/safeToDelete.tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/ROOT/RELEASE-NOTES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/ROOT/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/ROOT/asf-logo-wide.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/ROOT/bg-button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/ROOT/bg-middle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/ROOT/bg-nav-item.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/ROOT/bg-nav.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/ROOT/bg-upper.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/ROOT/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/ROOT/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/ROOT/tomcat-power.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/ROOT/tomcat.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/ROOT/tomcat.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/ROOT/tomcat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/ROOT/tomcat.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/BUILDING.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/RELEASE-NOTES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/RUNNING.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/aio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/api/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/appdev/build.xml.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/appdev/deployment.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/appdev/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/appdev/installation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/appdev/introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/appdev/processes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/appdev/sample/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/appdev/sample/docs/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/appdev/sample/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/appdev/sample/sample.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/appdev/sample/src/mypackage/Hello.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/appdev/sample/web/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/appdev/sample/web/hello.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/appdev/sample/web/images/tomcat.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/appdev/sample/web/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/appdev/source.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/appdev/web.xml.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/apr.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/architecture/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/architecture/overview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/architecture/requestProcess.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/architecture/requestProcess/authentication-process.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/architecture/requestProcess/request-process.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/architecture/startup.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/architecture/startup/serverStartup.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/architecture/startup/serverStartup.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/balancer-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/building.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/cgi-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/changelog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/class-loader-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/cluster-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/comments.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/ajp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/automatic-deployment.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/cluster-channel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/cluster-deployer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/cluster-interceptor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/cluster-listener.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/cluster-manager.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/cluster-membership.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/cluster-receiver.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/cluster-sender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/cluster-valve.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/cluster.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/context.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/cookie-processor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/credentialhandler.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/engine.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/executor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/filter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/globalresources.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/host.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/http.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/http2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/jar-scan-filter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/jar-scanner.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/jaspic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/listeners.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/loader.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/manager.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/realm.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/resources.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/server.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/service.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/sessionidgenerator.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/systemprops.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/config/valve.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/connectors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/default-servlet.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/deployer-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/developers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/elapi/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/extras.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/funcspecs/fs-admin-apps.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/funcspecs/fs-admin-objects.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/funcspecs/fs-admin-opers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/funcspecs/fs-default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/funcspecs/fs-jdbc-realm.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/funcspecs/fs-jndi-realm.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/funcspecs/fs-memory-realm.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/funcspecs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/funcspecs/mbean-names.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/html-manager-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/add.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/asf-logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/code.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/cors-flowchart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/design.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/docs-stylesheet.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/docs.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/fix.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/fonts/OpenSans400.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/fonts/OpenSans400italic.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/fonts/OpenSans600.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/fonts/OpenSans600italic.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/fonts/OpenSans700.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/fonts/OpenSans700italic.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/fonts/fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/printer.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/tomcat.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/tomcat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/tomcat.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/update.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/images/void.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/jasper-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/jdbc-pool.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/jndi-datasource-examples-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/jndi-resources-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/jspapi/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/logging.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/manager-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/maven-jars.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/mbeans-descriptors-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/monitoring.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/proxy-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/realm-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/rewrite.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/security-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/security-manager-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/servletapi/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/setup.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/ssi-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/ssl-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/tribes/developers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/tribes/faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/tribes/interceptors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/tribes/introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/tribes/membership.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/tribes/setup.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/tribes/status.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/tribes/transport.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/virtual-hosting-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/web-socket-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/websocketapi/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/windows-auth-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/docs/windows-service-howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/CookieExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/CookieExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/HelloWorldExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/HelloWorldExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/LocalStrings.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/LocalStrings_en.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/LocalStrings_es.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/LocalStrings_fr.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/LocalStrings_pt.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/RequestHeaderExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/RequestHeaderExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/RequestInfoExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/RequestInfoExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/RequestParamExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/RequestParamExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/ServletToJsp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/ServletToJsp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/SessionExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/SessionExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/async/Async0$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/async/Async0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/async/Async0.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/async/Async1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/async/Async1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/async/Async1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/async/Async2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/async/Async2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/async/Async2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/async/Async3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/async/Async3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/async/AsyncStockServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/async/AsyncStockServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/async/Stockticker$Stock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/async/Stockticker$TickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/async/Stockticker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/async/Stockticker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/cal/Entries.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/cal/Entries.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/cal/Entry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/cal/Entry.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/cal/JspCalendar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/cal/JspCalendar.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/cal/TableBean.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/cal/TableBean.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/checkbox/CheckTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/checkbox/CheckTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/colors/ColorGameBean.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/colors/ColorGameBean.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilterTestServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilterTestServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/compressionFilters/CompressionResponseStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/compressionFilters/CompressionResponseStream.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/compressionFilters/CompressionServletResponseWrapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/compressionFilters/CompressionServletResponseWrapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/dates/JspCalendar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/dates/JspCalendar.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/error/Smart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/error/Smart.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/examples/ExampleTagBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/examples/ExampleTagBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/examples/FooTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/examples/FooTag.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/examples/FooTagExtraInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/examples/FooTagExtraInfo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/examples/LogTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/examples/LogTag.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/examples/ShowSource.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/examples/ShowSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/examples/ValuesTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/examples/ValuesTag.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/filters/ExampleFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/filters/ExampleFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/http2/SimpleImagePush.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/http2/SimpleImagePush.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/BookBean.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/BookBean.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/FooBean.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/FooBean.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/ValuesBean.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/ValuesBean.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/el/Functions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/el/Functions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/EchoAttributesTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/EchoAttributesTag.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/FindBookSimpleTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/FindBookSimpleTag.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/HelloWorldSimpleTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/HelloWorldSimpleTag.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/RepeatSimpleTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/RepeatSimpleTag.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/ShuffleSimpleTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/ShuffleSimpleTag.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/TileSimpleTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/TileSimpleTag.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/listeners/ContextListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/listeners/ContextListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/listeners/SessionListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/listeners/SessionListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter$CounterListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/nonblocking/NumberWriter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/nonblocking/NumberWriter$NumberWriterListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/nonblocking/NumberWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/nonblocking/NumberWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/num/NumberGuessBean.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/num/NumberGuessBean.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/sessions/DummyCart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/sessions/DummyCart.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/util/CookieFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/util/CookieFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/util/HTMLFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/util/HTMLFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/validators/DebugValidator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/validators/DebugValidator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/ExamplesConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/ExamplesConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/chat/ChatAnnotation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/chat/ChatAnnotation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/Client$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/Client.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/Client.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawMessage$ParseException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawMessage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawMessage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardContextListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardContextListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$MessageType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$Player.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/Room.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/Room.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/AbstractWebsocketMessage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/AbstractWebsocketMessage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/BinaryWebsocketMessage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/BinaryWebsocketMessage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/CloseWebsocketMessage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/CloseWebsocketMessage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/StringWebsocketMessage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/StringWebsocketMessage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/echo/EchoAnnotation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/echo/EchoAnnotation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation$CompletedFuture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$EchoMessageHandlerBinary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$EchoMessageHandlerText.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/echo/EchoStreamAnnotation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/echo/EchoStreamAnnotation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/echo/servers.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/snake/Direction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/snake/Direction.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/snake/Location$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/snake/Location.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/snake/Location.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/snake/Snake.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/snake/Snake.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/snake/SnakeAnnotation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/snake/SnakeAnnotation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/snake/SnakeTimer$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/snake/SnakeTimer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/classes/websocket/snake/SnakeTimer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/jsp/applet/Clock2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/jsp/debug-taglib.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/jsp/example-taglib.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/jsp2/jsp2-example-taglib.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/tags/displayProducts.tag" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/tags/helloWorld.tag" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/tags/panel.tag" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/async/async1.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/async/async1.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/async/async3.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/async/async3.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/async/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/async/index.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/cal/Entries.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/cal/Entry.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/cal/JspCalendar.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/cal/TableBean.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/cal/cal1.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/cal/cal1.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/cal/cal2.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/cal/cal2.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/cal/calendar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/cal/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/checkbox/CheckTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/checkbox/check.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/checkbox/checkresult.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/checkbox/checkresult.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/checkbox/cresult.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/colors/ColorGameBean.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/colors/clr.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/colors/colors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/colors/colrs.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/colors/colrs.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/dates/date.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/dates/date.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/dates/date.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/error/er.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/error/err.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/error/err.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/error/error.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/error/errorpge.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/error/errorpge.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/forward/forward.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/forward/forward.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/forward/fwd.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/forward/one.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/forward/one.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/forward/two.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/images/code.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/images/execute.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/images/read.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/images/return.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/include/foo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/include/foo.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/include/foo.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/include/inc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/include/include.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/include/include.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/Functions.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/ValuesBean.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/ValuesTag.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/basic-arithmetic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/basic-arithmetic.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/basic-arithmetic.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/basic-comparisons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/basic-comparisons.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/basic-comparisons.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/composite.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/composite.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/composite.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/functions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/functions.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/functions.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/implicit-objects.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/implicit-objects.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/el/implicit-objects.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspattribute/FooBean.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspattribute/HelloWorldSimpleTag.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspattribute/ShuffleSimpleTag.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspattribute/TileSimpleTag.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspattribute/jspattribute.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspattribute/jspattribute.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspattribute/jspattribute.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspattribute/shuffle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspattribute/shuffle.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspattribute/shuffle.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspx/basic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspx/basic.jspx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspx/basic.jspx.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspx/svgexample.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspx/textRotate.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspx/textRotate.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspx/textRotate.jspx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/jspx/textRotate.jspx.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/misc/EchoAttributesTag.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/misc/coda.jspf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/misc/coda.jspf.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/misc/config.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/misc/config.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/misc/config.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/misc/dynamicattrs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/misc/dynamicattrs.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/misc/dynamicattrs.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/misc/prelude.jspf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/misc/prelude.jspf.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/simpletag/BookBean.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/simpletag/FindBookSimpleTag.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/simpletag/Functions.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/simpletag/HelloWorldSimpleTag.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/simpletag/RepeatSimpleTag.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/simpletag/book.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/simpletag/book.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/simpletag/book.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/simpletag/hello.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/simpletag/hello.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/simpletag/hello.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/simpletag/repeat.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/simpletag/repeat.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/simpletag/repeat.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/tagfiles/displayProducts.tag.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/tagfiles/hello.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/tagfiles/hello.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/tagfiles/hello.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/tagfiles/helloWorld.tag.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/tagfiles/panel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/tagfiles/panel.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/tagfiles/panel.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/tagfiles/panel.tag.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/tagfiles/products.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/tagfiles/products.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsp2/tagfiles/products.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsptoserv/ServletToJsp.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsptoserv/hello.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsptoserv/hello.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsptoserv/jsptoservlet.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsptoserv/jsptoservlet.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/jsptoserv/jts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/num/numguess.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/num/numguess.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/num/numguess.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/plugin/applet/Clock2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/plugin/applet/Clock2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/plugin/plugin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/plugin/plugin.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/plugin/plugin.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/security/protected/error.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/security/protected/error.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/security/protected/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/security/protected/index.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/security/protected/login.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/security/protected/login.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/sessions/DummyCart.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/sessions/carts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/sessions/carts.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/sessions/carts.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/sessions/crt.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/simpletag/foo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/simpletag/foo.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/simpletag/foo.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/snp/snoop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/snp/snoop.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/snp/snoop.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/source.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/source.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/tagplugin/choose.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/tagplugin/choose.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/tagplugin/choose.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/tagplugin/foreach.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/tagplugin/foreach.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/tagplugin/foreach.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/tagplugin/howto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/tagplugin/if.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/tagplugin/if.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/tagplugin/if.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/tagplugin/notes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/xml/xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/xml/xml.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/jsp/xml/xml.jsp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/servlets/cookies.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/servlets/helloworld.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/servlets/images/code.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/servlets/images/execute.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/servlets/images/return.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/servlets/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/servlets/nonblocking/bytecounter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/servlets/reqheaders.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/servlets/reqinfo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/servlets/reqparams.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/servlets/sessions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/websocket/chat.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/websocket/drawboard.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/websocket/echo.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/websocket/index.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/examples/websocket/snake.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/host-manager/META-INF/context.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/host-manager/WEB-INF/jsp/401.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/host-manager/WEB-INF/jsp/403.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/host-manager/WEB-INF/jsp/404.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/host-manager/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/host-manager/images/add.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/host-manager/images/asf-logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/host-manager/images/code.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/host-manager/images/design.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/host-manager/images/docs.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/host-manager/images/fix.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/host-manager/images/tomcat.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/host-manager/images/update.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/host-manager/images/void.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/host-manager/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/host-manager/manager.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/META-INF/context.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/WEB-INF/jsp/401.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/WEB-INF/jsp/403.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/WEB-INF/jsp/404.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/WEB-INF/jsp/connectorCiphers.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/WEB-INF/jsp/sessionDetail.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/WEB-INF/jsp/sessionsList.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/images/add.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/images/asf-logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/images/code.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/images/design.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/images/docs.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/images/fix.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/images/tomcat.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/images/update.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/images/void.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/status.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/apache-tomcat-8.5.23/webapps/manager/xform.xsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/布尔检索报告.docx" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/BooleanExpression/InvertedIndexTest.class" afterPath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/BooleanExpression/InvertedIndexTest.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/core/Documents.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/BooleanExpression/And.class" afterPath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/BooleanExpression/And.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/BooleanExpression/Not.class" afterPath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/BooleanExpression/Not.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/BooleanExpression/Or.class" afterPath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/BooleanExpression/Or.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/BooleanExpression/Term.class" afterPath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/BooleanExpression/Term.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/core/Response.class" afterPath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/core/Response.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/BooleanExpression/InvertedIndexTest.class" afterPath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/BooleanExpression/InvertedIndexTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/BooleanExpression/And.class" afterPath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/BooleanExpression/And.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/BooleanExpression/Not.class" afterPath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/BooleanExpression/Not.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/BooleanExpression/Or.class" afterPath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/BooleanExpression/Or.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/BooleanExpression/Term.class" afterPath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/BooleanExpression/Term.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/core/Response.class" afterPath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/core/Response.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/shakeIR_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/shakeIR_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/布尔检索报告.docx" afterPath="$PROJECT_DIR$/布尔检索报告.docx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shakeIR.iml" afterPath="$PROJECT_DIR$/shakeIR.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/web/search.jsp" afterPath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/WEB-INF/classes/web/search.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/search.jsp" afterPath="$PROJECT_DIR$/out/artifacts/shakeIR_war_exploded/search.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/And.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/And.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/Not.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/Not.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/Or.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/Or.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BooleanExpression/Term.java" afterPath="$PROJECT_DIR$/src/BooleanExpression/Term.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguage.g" afterPath="$PROJECT_DIR$/src/antlr4Generated/QueryLanguage.g" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/Response.java" afterPath="$PROJECT_DIR$/src/core/Response.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/web/search.jsp" afterPath="$PROJECT_DIR$/webRoot/web/WEB-INF/classes/web/search.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webRoot/web/search.jsp" afterPath="$PROJECT_DIR$/webRoot/web/search.jsp" />
@@ -676,22 +41,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="Response.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/core/Response.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="22" column="81" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InvertedIndexTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="43" />
+            <state relative-caret-position="-9">
+              <caret line="26" column="46" lean-forward="false" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -700,19 +55,101 @@
       <file leaf-file-name="InvertedIndex.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+            <state relative-caret-position="-9">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="class#Info#0;class#InvertedIndex#0" expanded="false" />
+                <element signature="method#Info#0;class#Info#0;class#InvertedIndex#0" expanded="false" />
+                <element signature="method#Info#1;class#Info#0;class#InvertedIndex#0" expanded="false" />
+                <element signature="method#InvertedIndex#0;class#InvertedIndex#0" expanded="false" />
+                <element signature="method#InvertedIndex#1;class#InvertedIndex#0" expanded="false" />
+                <element signature="method#getFileIndex#0;class#InvertedIndex#0" expanded="false" />
+                <element signature="method#getWordFrequency#0;class#InvertedIndex#0" expanded="false" />
+                <element signature="method#getWordFrequencyHelp#0;class#InvertedIndex#0" expanded="false" />
+                <element signature="method#preprocess#0;class#InvertedIndex#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueryLanguage.g" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguage.g">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-11">
+              <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webRoot/web/search.jsp">
+      <file leaf-file-name="QueryLanguageBaseListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguageBaseListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-270">
-              <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+            <state relative-caret-position="-9">
+              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueryLanguageLexer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguageLexer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-9">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="And.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BooleanExpression/And.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-9">
+              <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Or.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BooleanExpression/Or.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-9">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Not.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BooleanExpression/Not.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueryParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/QueryParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-9">
+              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueryListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/QueryListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-9">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -730,9 +167,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/core/Response.java" />
         <option value="$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/Not.java" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/Term.java" />
         <option value="$PROJECT_DIR$/webRoot/web/search.jsp" />
+        <option value="$PROJECT_DIR$/src/core/Response.java" />
+        <option value="$PROJECT_DIR$/src/antlr4Generated/QueryLanguage.g" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/And.java" />
+        <option value="$PROJECT_DIR$/src/BooleanExpression/Or.java" />
       </list>
     </option>
   </component>
@@ -749,9 +191,10 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="45" />
-    <option name="width" value="1389" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="35" />
+    <option name="y" value="3" />
+    <option name="width" value="882" />
     <option name="height" value="990" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -785,8 +228,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -797,25 +242,30 @@
             <path>
               <item name="shakeIR" type="b2602c69:ProjectViewProjectNode" />
               <item name="shakeIR" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shakeIR" type="b2602c69:ProjectViewProjectNode" />
               <item name="shakeIR" type="462c0819:PsiDirectoryNode" />
-              <item name="webRoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="antlr4Generated" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shakeIR" type="b2602c69:ProjectViewProjectNode" />
               <item name="shakeIR" type="462c0819:PsiDirectoryNode" />
-              <item name="webRoot" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BooleanExpression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shakeIR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shakeIR" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1039,6 +489,7 @@
       <option name="presentableId" value="Default" />
       <updated>1507566791786</updated>
       <workItem from="1507566793172" duration="2464000" />
+      <workItem from="1507602435171" duration="6267000" />
     </task>
     <servers />
   </component>
@@ -1054,41 +505,41 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2464000" />
+    <option name="totallyTimeSpent" value="8731000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="45" y="0" width="1389" height="990" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15171407" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1098,14 +549,58 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/core/Response.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
+        <state relative-caret-position="432">
           <caret line="22" column="81" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/InvertedIndexTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+          <folding>
+            <element signature="class#Info#0;class#InvertedIndex#0" expanded="false" />
+            <element signature="method#Info#0;class#Info#0;class#InvertedIndex#0" expanded="false" />
+            <element signature="method#Info#1;class#Info#0;class#InvertedIndex#0" expanded="false" />
+            <element signature="method#InvertedIndex#0;class#InvertedIndex#0" expanded="false" />
+            <element signature="method#InvertedIndex#1;class#InvertedIndex#0" expanded="false" />
+            <element signature="method#getFileIndex#0;class#InvertedIndex#0" expanded="false" />
+            <element signature="method#getWordFrequency#0;class#InvertedIndex#0" expanded="false" />
+            <element signature="method#getWordFrequencyHelp#0;class#InvertedIndex#0" expanded="false" />
+            <element signature="method#preprocess#0;class#InvertedIndex#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webRoot/web/search.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/Term.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1118,18 +613,118 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java">
+    <entry file="file://$PROJECT_DIR$/webRoot/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        <state relative-caret-position="-9">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webRoot/web/search.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        <state relative-caret-position="-9">
+          <caret line="65" column="2" lean-forward="false" selection-start-line="65" selection-start-column="2" selection-end-line="65" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/Documents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguageBaseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguageLexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/InvertedIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="class#Info#0;class#InvertedIndex#0" expanded="false" />
+            <element signature="method#Info#0;class#Info#0;class#InvertedIndex#0" expanded="false" />
+            <element signature="method#Info#1;class#Info#0;class#InvertedIndex#0" expanded="false" />
+            <element signature="method#InvertedIndex#0;class#InvertedIndex#0" expanded="false" />
+            <element signature="method#InvertedIndex#1;class#InvertedIndex#0" expanded="false" />
+            <element signature="method#getFileIndex#0;class#InvertedIndex#0" expanded="false" />
+            <element signature="method#getWordFrequency#0;class#InvertedIndex#0" expanded="false" />
+            <element signature="method#getWordFrequencyHelp#0;class#InvertedIndex#0" expanded="false" />
+            <element signature="method#preprocess#0;class#InvertedIndex#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/antlr4Generated/QueryLanguage.g">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/QueryListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="26" column="46" lean-forward="false" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/QueryParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/And.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/Or.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BooleanExpression/Not.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding />
         </state>
       </provider>

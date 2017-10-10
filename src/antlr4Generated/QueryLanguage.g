@@ -32,5 +32,4 @@ boolean_literal:TRUE|FALSE;
 
 TERM:[a-zA-Z_][a-zA-Z_0_9]*;
 
-
 WS:((' '|'\r'|'\t'|'\u000C'|'\n')* |EOF)->skip;

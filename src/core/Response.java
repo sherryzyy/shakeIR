@@ -14,19 +14,29 @@ import java.util.List;
  */
 public class Response {
 
-    private static InvertedIndex invertedIndex = new InvertedIndex();
+    private static InvertedIndex invertedIndex;
 
 
     public ArrayList<webResult> getResponse(String rawquery) throws IOException {
 
-        ArrayList<String> querylist=InvertedIndex.preprocess(rawquery.split("\\s+"));
-        String query=String.join(" ",(String[])querylist.toArray(new String[0]));
+        /*preprocess query*/
+        ArrayList<String> querylist = InvertedIndex.preprocess(rawquery.split("\\s+"));
+        String query = String.join(" ", (String[]) querylist.toArray(new String[0]));
+
+        if (invertedIndex == null) {
+            invertedIndex=new InvertedIndex();
+            invertedIndex.getFileIndex();
+            invertedIndex.getWordFrequency();
+        }
         ArrayList<webResult> rtn = new ArrayList<>();
-        invertedIndex.getFileIndex();
-        invertedIndex.getWordFrequency();
+
         QueryParser queryParser = new QueryParser();
         BooleanExpression booleanExpression = queryParser.parse(query);
         ArrayList<Integer> num = queryParser.match(invertedIndex);
+        /*no result*/
+        if (num.contains(-1)) {
+            return null;
+        }
         int len = 1000;//read bytes
         for (Integer docID : num) {
 

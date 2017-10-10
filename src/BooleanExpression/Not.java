@@ -5,8 +5,8 @@ import java.util.HashSet;
 import java.util.TreeMap;
 
 public class Not implements UnaryBooleanOperator {
-    public static final String TEXT="NOT";
-    public static final Not INSTANCE=new Not();
+    public static final String TEXT = "NOT";
+    public static final Not INSTANCE = new Not();
 
     public Not() {
     }
@@ -14,17 +14,24 @@ public class Not implements UnaryBooleanOperator {
     @Override
     public ArrayList<Integer> evaluate(BooleanExpression booleanExpression, InvertedIndex invertedIndex) {
 
-        ArrayList<Integer> posting=booleanExpression.evaluate(invertedIndex);
-        ArrayList<Integer> rtn=new ArrayList<>();
-        int flag=invertedIndex.docIndex.size();
+        ArrayList<Integer> posting = booleanExpression.evaluate(invertedIndex);
+        ArrayList<Integer> rtn = new ArrayList<>();
 
-        for(int i=0;i<flag;i++){
-            if(posting.contains(i)){continue;}
-            else{
+        int flag = invertedIndex.docIndex.size();
+        if (posting.contains(-1)) {
+            for (int i = 0; i < flag; i++) {
                 rtn.add(i);
             }
+        } else {
+            for (int i = 0; i < flag; i++) {
+                if (posting.contains(i)) {
+                    continue;
+                } else {
+                    rtn.add(i);
+                }
+            }
         }
-       return rtn;
+        return rtn;
     }
 
     @Override

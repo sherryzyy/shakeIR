@@ -21,7 +21,14 @@ public class Term implements BooleanExpression {
 
     @Override
     public ArrayList<Integer> evaluate(InvertedIndex invertedIndex) {
-        return invertedIndex.InvertedIndex.get(term).posting;
+        ArrayList<Integer> rtn = new ArrayList<>();
+        if (invertedIndex.InvertedIndex.get(term) == null) {
+            rtn.add(-1);
+        } else {
+            rtn = invertedIndex.InvertedIndex.get(term).posting;
+        }
+
+        return rtn;
     }
 
     @Override
